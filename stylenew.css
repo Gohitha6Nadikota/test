@@ -1,0 +1,537 @@
+.div1
+{
+    background-image: url("books-library-shelves-lighting.jpg");
+    width: 100%;
+    height: 720px;
+    background-size:cover;
+}
+.div1a
+{
+    padding-top: 90px;
+    padding-left: 30px;
+    font-family: cursive;
+    font-size: 50px;
+    color: azure;
+}
+.div1b
+{
+    font-size: 20px;
+    padding-left: 100px;
+    font-family:'Courier New', Courier, monospace;
+    color:azure;
+}
+.div2
+{
+    background-color:#F8EDE3;
+    padding: 20px 0px;
+    margin: 0;
+    width:100%;
+    height: 360px;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+
+}
+.div2a
+{
+    padding-top: 90px;
+    font-family: Comic Sans MS;
+    color:#643843;
+}
+.div2b
+{
+    font-family: Comic Sans MS;
+    color:#85586F;
+}
+.div3
+{
+    background-color: #DFD3C3;
+    padding: 20px 0px;
+    margin: 0;
+    width:100%;
+    height: 360px;
+    text-align: center;
+    /*margin-left:auto;
+    margin-right: auto;   */
+}
+.div3b
+{
+    padding-left: 20px;
+    height:250px;
+    width:250px;
+    padding-top: 20px;
+    padding-right: 10px;
+    background-size: cover;
+}
+.div3c
+{
+    padding-top: 30px;
+    padding-left: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#643843;
+    font-family: 'Times New Roman', Times, serif;
+}
+.div4
+{
+    background-color:#DFD3C3;
+    padding: 20px 0px;
+    width:100%;
+    height: 360px;
+    margin: 0;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+}
+.div4b
+{
+    padding-left: 20px;
+    height:150px;
+    width:150px;
+    padding-top: 20px;
+    padding-right: 20px;
+    background-size: cover;
+}
+.div4c
+{
+    color:#643843;
+    padding-top: 40px;
+    padding-left: 40px;
+    font-size: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
+.div5
+{
+    background-color:#F8EDE3;
+    padding: 20px 0px;
+    margin: 0;
+    width:100%;
+    height: 560px;
+    align-items:center;
+    margin-left:auto;
+    margin-right: auto;
+}
+.div5a
+{
+    align-content: left;
+    padding-top: 30px;
+    padding-left: 400px;
+    padding-right: 400px;
+    width: 1200px;
+    height: 400px;
+    align-items: center;
+}
+.div5b
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.div6
+{
+    background-color:#F8EDE3;
+    padding: 20px 0px;
+    margin: 0;
+    width:100%;
+    height: 360px;
+    align-items: center;
+    margin-left:auto;
+    margin-right: auto;
+}
+.div6b
+{
+    font-size: large;
+    text-transform: capitalize;
+    font-weight: 800;
+    font-style: italic;
+    color:#85586F;
+    padding-left: 50px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+.div6d
+{
+    font-size: large;
+    text-transform: capitalize;
+    font-weight: 800;
+    font-style: italic;
+    color: #643843;
+    padding-left: 80px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+.div6c
+{
+    font-size: large;
+    font-weight: 800;
+    font-style: italic;
+    color: #643843;
+    padding-left: 455px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+.div6e
+{
+    background-color:#F8EDE3;
+    padding: 20px 0px;
+    margin: 0;
+    width:100%;
+    height: 500px;
+    align-items: center;
+}
+.div6ea
+{
+    font-family: 'Times New Roman', Times, serif;
+    color:#643843;
+    text-transform: uppercase;
+    padding-left: 60px;
+    padding-bottom:60px;
+}
+.div6ec
+{
+    font-family: 'Times New Roman', Times, serif;
+    color:#643843;
+    text-transform: uppercase;
+    padding-left: 60px;
+    padding-bottom:60px;
+
+}
+.div6eb1
+{
+    width:500px;
+    height:200px;
+    padding-left: 60px;
+    padding-right:60px;
+}
+.div6eb2
+{
+    width:500px;
+    height:200px;
+    padding-left: 70px;
+    padding-right:70px;
+}
+.div7
+{
+    background-color:#DFD3C3;
+    padding: 20px 0px;
+    margin: 0;
+    width:100%;
+    height: 930px;
+    color:black;
+    align-items: center;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+}
+.center
+{
+    padding-left: 25.4%;
+}
+span
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#82AAE3;
+}
+.div7b
+{
+    font-style: oblique;
+    font-weight: bold;
+    padding-top: 2px;
+    color:#643843;
+}
+.div7ba
+{
+    font-style: oblique;
+    font-weight: bold;
+    padding-top: 0px;
+    height: 20px;
+    color:#85586F;
+}
+.div7a
+{
+    padding-left: 10px;
+    padding-top: 0px;
+    color:black;
+}
+.div7c
+{
+    text-decoration: none;
+    color:#82AAE3;
+}
+.div8
+{
+    background-color:#F8EDE3;
+    margin: 0;
+    width:100%;
+    height: 490px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    align-items: center;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+}
+.q
+{
+    align-items: center;
+    padding-left: 20%;
+    padding-right: 10%;
+}
+.q1
+{
+    padding-left: 45%;
+}
+.footerbutton
+{
+    
+    text-decoration: none;
+    padding-right: 100px;
+    background-color: #FFFFFF;
+    border: 0;
+    border-radius: .5rem;
+    box-sizing: border-box;
+    color: #111827;
+    font-family: "Inter var",ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: .875rem;
+    font-weight: 600;
+    line-height: 1.25rem;
+    padding: .75rem 1rem;
+    text-align: center;
+    text-decoration: none #D1D5DB solid;
+    text-decoration-thickness: auto;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+.footerbutton:hover 
+{
+    background-color: rgb(249,250,251);
+}
+  
+  .footerbutton:focus 
+  {
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+  }
+  
+  .footerbutton:focus-visible 
+  {
+    box-shadow: none;
+  }
+  .footerother
+  {
+    padding-top: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+  }
+  .footh
+  {
+    padding-top: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 30px;
+    height: 120px;
+  }
+  .div5ab
+  {
+      align-content: center;
+      padding-top: 30px;
+      width: 250px;
+      height: 150px;
+      padding-left: 80px;
+      padding-right: 80px;
+      align-items: center;
+      font-family:'Times New Roman', Times, serif;
+  }
+@media screen and (max-width:768px)
+{
+    .div1
+    {
+        background-size: cover;
+        width: 100%;
+        height: 360px;
+        background-repeat: no-repeat;
+    }
+    .div1a
+    {
+        padding-top: 30px;
+        padding-left: 10px;
+        font-size: 22px;
+    }
+    .div1b
+    {
+        font-size: 15px;
+        padding-left: 50px;
+        font-family:'Times New Roman', Times, serif;
+        color:azure;
+    }
+    .div2
+    {
+        width: 100%;
+        height: 220px;
+    }
+    .div2a
+    {
+        font-size: 15px;
+        height: 40px;
+        padding-bottom: 20px;
+    }
+    .div2b
+    {
+        font-size: 15px;
+        height: 40px;
+    }
+    .div3
+    {
+        height: 250px;
+    }
+    .div3a
+    {
+        padding-left: 30px;
+    }
+    .div3c
+    {
+        font-size: 7px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 0px;
+        padding-top: 5px;
+    }
+    .div3b
+    {
+        height:125px;
+        width:125px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 0px;
+    }
+    /*.innerdiv3,.row
+    {
+        width:110%;
+    }*/
+    .div4
+    {
+        height: 220px;
+    }
+    .div4b
+    {
+        height:125px;
+        width:125px;
+    }
+    .div4c
+    {
+        font-size: 7px;
+        padding-left:20px;
+    }
+    .div5
+    {
+        height:325px;
+    }
+    .div5a
+    {
+        align-content: center;
+        padding-top: 10px;
+       padding-left: 1px;
+        padding-right: 1px;
+        width: 100%;
+        height: 280px;
+    }
+    .div5b
+    {
+        font-size: 20px;
+    }
+    .div6
+    {
+        height:220px;
+    }
+    .div6b
+    {
+        font-size: 7px;
+    }
+    .div6c
+    {
+        font-size: 7px;
+        padding-left: 80px
+    }
+    .div6d
+    {
+        font-size: 7px;
+        padding-left: 30px;
+    }
+    .div6e
+    {
+        background-color:#F8EDE3;
+        padding: 20px 0px;
+        margin: 0;
+        height: 690px;
+        align-items: center;
+    }
+    .div6ea
+    {
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        color:#643843;
+        text-transform: uppercase;
+        padding-left: 60px;
+        padding-bottom:60px;
+    }
+    .div6ec
+    {
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        color:#643843;
+        text-transform: uppercase;
+        padding-top: 40px;
+        padding-left: 60px;
+        padding-bottom:60px;
+    }
+    .div6eb1
+    {
+        width:85%;
+        height:190px;
+        padding-left: 66px;
+        padding-right:66px;
+    }
+    .div6eb2
+    {
+        width:85%;
+        height:190px;
+        padding-left: 66px;
+        padding-right:66px;
+    }
+    .div7
+    {
+        height:820px;
+    }
+    .div8
+    {
+        height:640px;
+    }
+    .div7a,.footh
+    {
+        font-size: 25px;
+    }
+    .div7b
+    {
+        font-size: 10px;
+        padding-left: 16px;
+        padding-right: 5px;
+    }
+    .div5ab
+    {
+        width: 150px;
+        height: 150px;
+        padding-top: 10px;
+        padding-left: 30px;
+      padding-right: 30px;
+    }
+    .center
+    {
+        padding-left: 0px;
+    }
+}
+
+
